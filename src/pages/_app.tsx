@@ -8,7 +8,8 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>React Avançado Boilerplate</title>
-        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/img/icon-192.png" />
+        <link rel="shortcut icon" href="/img/icon-512.png" />
         <meta
           name="description"
           content="A simple projet starter to work with Typescript, React, NextJS and Styled Component"
