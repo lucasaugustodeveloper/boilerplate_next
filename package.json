@@ -11,7 +11,7 @@
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watchAll",
     "storybook": "start-storybook -s ./public -p 6006",
-    "build-storybook": "build-storybook"
+    "storybook:build": "build-storybook -s ./public"
   },
   "husky": {
     "hooks": {
